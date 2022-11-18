@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="49.748">
+    <testcase classname="Login to myp1 functionality" name="Verify MYP1 login" time="49.628">
+        <system-out><![CDATA[Given I am login to the myp1 site...........................................passed
+And System navigate to the dashboard........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
